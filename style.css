@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(151, 132, 108,0.369);
+}
+.lista-card{
+    display: flex;
+    flex-wrap: wrap;
+    color: rgb(76,54, 54);
+}
+
+.card{
+    border: 1px solid rgb(79, 66, 66, 0.205);
+    width: 250px;
+    border-radius: 6px;
+    padding: 10px;
+    box-shadow:0 4px 8px rgb(0,0, 0,0.584);
+    margin-bottom: 12px;
+    margin-left: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.grupoValores{
+    border:1px solid black;
+    width: fit-content;
+    column-gap: 15px;
+    flex-direction: row;
+    display: flex;
+}
+
+.comDesconto{
+    font-weight: bold;
+    font-size: 22px;
+}
+.semDesconto{
+    font-size: 17px;
+    color: red;
+    text-decoration: line-through;
+}
+.textos{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.grupo-img{
+    width: 250px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.mini-img{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+.lista-card{
+    display: flex;
+    flex-wrap: wrap;
+    color: rgb(76,54, 54);
+
+}
+nav{
+    background: rgb(140, 109, 234);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    
+}
+footer{
+    text-align: center;
+    background: rgb(110, 62, 254);
+    padding: 15px;
+    color: white; 
+}
+
+button{
+    margin: 10px;
+    height: 100%;
+    
+}
+h1{
+    color: rgb(21, 0, 255);
+}
+
+

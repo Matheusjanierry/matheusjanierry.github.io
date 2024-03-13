@@ -1,0 +1,137 @@
+[
+    {
+        "id":0,
+        "img":[
+                    "https://a-static.mlcdn.com.br/1500x1500/lava-e-seca-samsung-11kg-3-em-1-agua-quente-e-fria-wd11t504dbx/magazineluiza/234654800/14d4f216d93f5c96c7638e78f17082b3.jpg",
+                    "https://images-americanas.b2w.io/produtos/01/00/img3/48205148/9/4820514875_2GG.jpg",
+                    "https://images-americanas.b2w.io/produtos/01/00/img3/48205148/9/4820514875_3GG.jpg"
+                    
+        ],
+        "nome":"Lava e Seca Samsung 11kg",
+        "descricao": "Lava E seca Samsung 16 programas PLS11T invertplus 11KG- 127V Lavadora e Secadora Samsung PLS11T te ajuda a cuidar das suas roupas e economizar. O motor é Invertplus, a máquina possui um motor inverter bldc, que possibilita mais econo...",
+        "valorComDesconto":4417.99,
+        "valorSemDesconto":4699.99
+    },
+    {
+        "id":3,
+        "img":[ 
+                    "https://a-static.mlcdn.com.br/800x560/notebook-samsung-book-np550xda-kt1br-intel-core-i3-4gb-1tb-156-full-hd-led-windows-10/magazineluiza/135311200/ecbbeb0b5dc2888000574687fc255f0f.jpg",
+                    "https://images-americanas.b2w.io/produtos/7484686627/imagens/notebook-samsung-galaxy-book2-intel-core-i5-8gb-256-gb-ssd-tela-15-6windows-11-home/7484686629_5_xlarge.jpg",
+                    "https://images-americanas.b2w.io/produtos/7484686627/imagens/notebook-samsung-galaxy-book2-intel-core-i5-8gb-256-gb-ssd-tela-15-6windows-11-home/7484686629_4_xlarge.jpg"
+             ],
+        "nome":"Notebook Samsung Book",
+        "descricao": "Modelo: NP550XED-KF2BR O Galaxy Book2 traz um design moderno e inovador, com uma arquitetura de última geração para quem busca desempenho, qualidade e flexibilidade para upgrade futuro. Conta com portas de acesso à memória e unidade...",
+        "valorComDesconto":2714.59,
+        "valorSemDesconto":3015.50
+    },
+    {
+        "id":6,
+        "img":[
+                    "https://a-static.mlcdn.com.br/800x560/geladeira-refrigerador-electrolux-frost-free-inox-duplex-371l-dfx41/magazineluiza/013080800/4385618d23f22e08ec6705f568b65014.jpg",
+                    "https://images-americanas.b2w.io/produtos/01/00/img/1808805/6/1808805653_2GG.jpg",
+                    "https://images-americanas.b2w.io/produtos/01/00/img/1808805/6/1808805653_3GG.jpg"
+        ],
+        "nome":"Geladeira/Refrigerador Electrolux",
+        "descricao": " Geladeira Electrolux Frost Free 340 litros não precisa descongelar nunca. Possui prateleiras com Altura Flex que permite até 8 níveis de altura e função Turbo. Ahhh! Bem pensado. Imagens meramente ilustrativas. Todas as informações d...",
+        "valorComDesconto":3071.20,
+        "valorSemDesconto":3199.99
+    },
+    {
+        "id":9,
+        "img":[
+                    "https://images-americanas.b2w.io/produtos/32857830/imagens/armario-de-cozinha-12-portas-1-gaveta-clara-poliman-moveis-branco/32857831_1_xlarge.jpg",
+                    "https://images-americanas.b2w.io/produtos/32857830/imagens/armario-de-cozinha-12-portas-1-gaveta-clara-poliman-moveis-branco/32857831_2_large.jpg",
+                    "https://images-americanas.b2w.io/produtos/32857830/imagens/armario-de-cozinha-12-portas-1-gaveta-clara-poliman-moveis-branco/32857831_3_large.jpg"
+            
+        ],
+        "nome":"Armário de cozinha 12 portas 1 gaveta Clara Poliman Móveis - Branco",
+        "descricao": "Description ul { list-style: disc; padding-left: 19px; }Que tal mobiliar o coração da casa de um jeito fácil? O armário de cozinha 12 portas 1 gaveta Clara Poliman Móveis é feito para quem quer economizar e deixar o cômodo bonito ...",
+        "valorComDesconto":599.99,
+        "valorSemDesconto":789.99
+    },
+    {
+        "id":12,
+        "img":[
+                    "https://images-americanas.b2w.io/produtos/619249299/imagens/sala-de-jantar-jaine-mesa-de-madeira-com-6-cadeiras-madesa/619250151_1_xlarge.jpg",
+                    "https://images-americanas.b2w.io/produtos/619249299/imagens/sala-de-jantar-jaine-mesa-de-madeira-com-6-cadeiras-madesa/619250151_2_xlarge.jpg",
+                    "https://images-americanas.b2w.io/produtos/619249299/imagens/sala-de-jantar-jaine-mesa-de-madeira-com-6-cadeiras-madesa/619250151_3_xlarge.jpg"
+        ],           
+        "nome":"Mesa de Jantar 6 Cadeiras Retangular",
+        "descricao": "Conjunto Sala de Jantar Jaíne com 6 Cadeiras MadesaO Conjunto de Jantar Jaíne da Madesa traz praticidade e beleza ao ambiente. Características: - A mesa de madeira com pés estruturais é mais firme e segura e o tampo de madeira tran...",
+        "valorComDesconto": 689.99,
+        "valorSemDesconto": 898.99
+    },
+    {
+        "id":15,
+        "img":[
+                    "https://a-static.mlcdn.com.br/800x560/painel-para-tv-ate-60-polegadas-ripado-com-nichos-dj-moveis-bento-freijo-off-white/djmoveisindustria/27160222/38beb0569b1162f093b9c25b44c71955.jpeg",
+                    "https://images-americanas.b2w.io/produtos/6442394810/imagens/painel-para-tv-ate-60-polegadas-bento-1-90m-freijo-off-white-dj-moveis/6442394810_2_large.jpg",
+                    "https://images-americanas.b2w.io/produtos/6442394810/imagens/painel-para-tv-ate-60-polegadas-bento-1-90m-freijo-off-white-dj-moveis/6442394810_4_large.jpg"
+        ],
+        "nome":"Painel para TV até 60 Polegadas",
+        "descricao": "Painel Para Tv Até 65 Polegadas Marselan Decibal Woodcristalo O Painel Marselan PS101 comporta uma super tela de até 60 polegadas, possibilitando tornar a sua sala um ambiente de cinema! Com prateleiras laterais e superiores, permit...",
+        "valorComDesconto": 324.00,
+        "valorSemDesconto": 359.55
+    },
+    {
+        "id":18,
+        "img":[
+                    "https://images-americanas.b2w.io/produtos/4294289486/imagens/guarda-roupa-casal-3-portas-com-espelho-central-e-4-gavetas-costa-rica-salleto-moveis/4294289494_1_xlarge.jpg",
+                    "https://images-americanas.b2w.io/produtos/4294289486/imagens/guarda-roupa-casal-3-portas-com-espelho-central-e-4-gavetas-costa-rica-salleto-moveis/4294289494_2_large.jpg",
+                    "https://images-americanas.b2w.io/produtos/4294289486/imagens/guarda-roupa-casal-3-portas-com-espelho-central-e-4-gavetas-costa-rica-salleto-moveis/4294289494_8_xlarge.jpg"
+        ],
+        "nome":"Guarda Roupa Casal Hera 8 Portas e 4 Gavetas Rufato",
+        "descricao": "Este lindo Guarda-Roupa Costa Rica com Espelho Sallêto é fabricado em mdp/mdf, diferenciado pela sua resistência, durabilidade, funcionalidade e beleza, ele é a melhor opção para deixar seu dormitório mais arrumado e convidativo. Co...",
+        "valorComDesconto":849.89,
+        "valorSemDesconto":894.63
+    },
+    {
+        "id":21,
+        "img":[
+                    "https://images-americanas.b2w.io/produtos/01/00/img/2117190/5/2117190565_1SZ.jpg",
+                    "https://images-americanas.b2w.io/produtos/7473614635/imagens/console-xbox-series-s-branco-512gb-ssd-3-meses-de-game-pass/7473614639_1_small.jpg",
+                    "https://images-americanas.b2w.io/produtos/7473614635/imagens/console-xbox-series-s-branco-512gb-ssd-3-meses-de-game-pass/7473614639_2_xlarge.jpg"
+                    
+        ],
+        "nome":"Console Xbox Series S 500gb Ssd",
+        "descricao": "Com seu console Xbox Series você terá entretenimento garantido todos os dias. Sua tecnologia foi criada para colocar novos desafios para jogadores novatos e especialistas. A nova geração de consoles é comandada por Xbox Series que c...",
+        "valorComDesconto":2298.91,
+        "valorSemDesconto":2612.40
+    },
+    {
+        "id":24,
+        "img":[
+                    "https://images-americanas.b2w.io/produtos/3072707478/imagens/sofa-3-lugares-retratil-e-reclinavel-cama-inbox-compact-1-80m-velusoft-cafe/3072707486_1_small.jpg",
+                    "https://images-americanas.b2w.io/produtos/3072707478/imagens/sofa-3-lugares-retratil-e-reclinavel-cama-inbox-compact-1-80m-velusoft-cafe/3072707486_2_large.jpg",
+                    "https://images-americanas.b2w.io/produtos/3072707478/imagens/sofa-3-lugares-retratil-e-reclinavel-cama-inbox-compact-1-80m-velusoft-cafe/3072707486_4_large.jpg"
+        ],
+        "nome":"Sofá 3 Lugares Retrátil e Reclinável Cama inBox Compact 1,80m Velusoft Café",
+        "descricao": "deal para ambientes compactos e sofisticados, o Sofá Cama inBox Compact de 3 lugares irá renovar a beleza da sua sala, assim como trazer muito conforto para você. Feito para espaços compactos, ele é aconchegante e possui um design .",
+        "valorComDesconto":1039.98,
+        "valorSemDesconto":1399.99
+    }
+]
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
