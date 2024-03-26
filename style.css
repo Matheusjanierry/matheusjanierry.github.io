@@ -1,5 +1,7 @@
 body{
-    background-color: rgb(151, 132, 108,0.369);
+    background-color: rgb(184, 184, 184);
+    
+
 }
 .lista-card{
     display: flex;
@@ -36,6 +38,23 @@ body{
     font-size: 17px;
     color: red;
     text-decoration: line-through;
+
+}
+.grupoValores1{
+    width: fit-content;
+    column-gap: 15px;
+    flex-direction: row;
+    display: flex;
+}
+
+.valorComDesconto{
+    font-weight: bold;
+    font-size: 22px;
+}
+.valorSemDesconto{
+    font-size: 17px;
+    color: red;
+    text-decoration: line-through;
 }
 .textos{
     display: flex;
@@ -64,15 +83,20 @@ body{
 
 }
 nav{
-    background: rgb(140, 109, 234);
+    display: flex;
+    column-gap: 20px;
+    flex-direction: row;
+    background: red;
     padding: 10px;
     color: rgb(255, 255, 255);
     width: 100%;
     
 }
 footer{
+    display: flex;
+    flex-direction: row;
     text-align: center;
-    background: rgb(110, 62, 254);
+    background: red;
     padding: 15px;
     color: white; 
 }
@@ -83,7 +107,11 @@ button{
     
 }
 h1{
-    color: rgb(21, 0, 255);
+    color: white;
+}
+h2{
+   color: white;
+   font-size: 50px;
 }
 
 

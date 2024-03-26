@@ -1,16 +1,23 @@
 [
     {
         "id":0,
-        "img":[
-                    "https://a-static.mlcdn.com.br/1500x1500/lava-e-seca-samsung-11kg-3-em-1-agua-quente-e-fria-wd11t504dbx/magazineluiza/234654800/14d4f216d93f5c96c7638e78f17082b3.jpg",
+        "img":["https://a-static.mlcdn.com.br/1500x1500/lava-e-seca-samsung-11kg-3-em-1-agua-quente-e-fria-wd11t504dbx/magazineluiza/234654800/14d4f216d93f5c96c7638e78f17082b3.jpg",
                     "https://images-americanas.b2w.io/produtos/01/00/img3/48205148/9/4820514875_2GG.jpg",
-                    "https://images-americanas.b2w.io/produtos/01/00/img3/48205148/9/4820514875_3GG.jpg"
-                    
-        ],
+                    "https://images-americanas.b2w.io/produtos/01/00/img3/48205148/9/4820514875_3GG.jpg" ],
         "nome":"Lava e Seca Samsung 11kg",
         "descricao": "Lava E seca Samsung 16 programas PLS11T invertplus 11KG- 127V Lavadora e Secadora Samsung PLS11T te ajuda a cuidar das suas roupas e economizar. O motor é Invertplus, a máquina possui um motor inverter bldc, que possibilita mais econo...",
         "valorComDesconto":4417.99,
         "valorSemDesconto":4699.99
+    },
+    {
+        "id":3,
+        "img":[ "https://a-static.mlcdn.com.br/800x560/kit-kt-105-b-mondial-com-liquidificador-batedeira-espremedor/magazineluiza/023004200/8dc54c8eec75c392e09f443d7125b13d.jpg",
+               "https://a-static.mlcdn.com.br/800x560/kit-kt-105-b-mondial-com-liquidificador-batedeira-espremedor/magazineluiza/023004200/685ab1a9f244fa40dc454f7065440ed9.jpg",
+               "https://a-static.mlcdn.com.br/800x560/kit-kt-105-b-mondial-com-liquidificador-batedeira-espremedor/magazineluiza/023004200/340a930946083d47366e4e29533302d5.jpg"          ],
+        "nome":"Kit KT-105-B Mondial com Liquidificador Batedeira - Espremedor",
+        "descricao":"kit de eletroportáteis é o ideal, pois  deixando sua cozinha completa e harmoniosa. Com o kit de portáteis você poderá transformar o modo de preparo das suas refeições.Ele é composto por Liquidificador, Batedeira e Espremedor de Frutas, produzidos com materiais de excelente qualidade, resistentes e duradouros. Prepare sucos, tortas, bolos, vitaminas, sopas e muito mais com a excelência que você merece.",
+        "valorComDesconto":517.90,
+        "valorSemDesconto":248.64
     },
     {
         "id":3,

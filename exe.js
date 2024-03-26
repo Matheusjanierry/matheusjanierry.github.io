@@ -25,11 +25,11 @@ async function buscar(){
         <p>
             ${produtos[inProduto].descricao}
         </p>
-        <div class="grupoValores">
-                <span class="ComDesconto">
+        <div class="grupoValores1">
+                <span class="valorComDesconto">
                     R$${(produtos[inProduto].valorComDesconto).toFixed(2).replace(".",",")}
                 </span>
-                <span class="SemDesconto">
+                <span class="valorSemDesconto">
                     R$${(produtos[inProduto].valorSemDesconto).toFixed(2).replace(".",",")}
                 </span>
         </div>

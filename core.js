@@ -14,7 +14,7 @@ async function buscar(){
                 <div class= "textos">    
                     <h3> ${produto.nome}</h3>
                     <p> ${produto.descricao}</p>
-                    </div>
+                    </div class= "grupoValores">
                         <span class= "comDesconto"> R$ ${(produto.valorComDesconto).toFixed(2).replace(".", " ,")}</span>
                         <span class= "semDesconto"> R$ ${(produto.valorSemDesconto).toFixed(2).replace(".", " ,")}</span>
                     </div>
