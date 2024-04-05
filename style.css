@@ -3,6 +3,14 @@ body{
     
 
 }
+.pmg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
 .box-busca{ 
     display: flex;
     flex-direction: column;
@@ -51,7 +59,7 @@ body{
    border-radius: 50%;
    width: 45px;
    height: 45px;
-   background-color: #14c0c7;
+   background-color: #ff0062;
    border: none;
    cursor: pointer;
    transition: .3s;
@@ -149,10 +157,11 @@ body{
 
 }
 nav{
+    justify-content: space-around;
     display: flex;
     column-gap: 20px;
     flex-direction: row;
-    background: red;
+    background: #ff0062;
     padding: 10px;
     color: rgb(255, 255, 255);
     width: 100%;
@@ -162,7 +171,7 @@ footer{
     display: flex;
     flex-direction: row;
     text-align: center;
-    background: red;
+    background: #ff0062;
     padding: 15px;
     color: white; 
 }
@@ -170,7 +179,8 @@ footer{
 button{
     margin: 10px;
     height: 100%;
-    
+    border: black 10;
+    border-radius: 5px;
 }
 h1{
     color: white;
@@ -179,5 +189,13 @@ h2{
    color: white;
    font-size: 50px;
 }
+button{
+    background-color: #ff0000;
+}
+.produtos{
+    display: flex;
+    flex-direction: row;
+    column-gap: 15px;
 
+}
 

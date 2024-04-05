@@ -1,3 +1,4 @@
+
 async function buscar(){
     let buscar = await fetch("lista.json")
     let produtos = await buscar.json()
