@@ -1,20 +1,14 @@
-document.getElementById('searchInput').addEventListener('input', function() {
-    let searchTerm = this.value.toLowerCase();
-    let searchResults = document.getElementById('searchResults');
-    searchResults.innerHTML = '';
-
-    fetch('produtos.json')
-        .then(response => response.json())
-        .then(data => {
-            let filteredProducts = data.filter(product => {
-                return product.name.toLowerCase().includes(searchTerm);
-            });
-
-            filteredProducts.forEach(product => {
-                let productDiv = document.createElement('div');
-                productDiv.innerHTML = `<p>ID: ${product.id}, Name: ${product.name}, Price: $${product.price}</p>`;
-                searchResults.appendChild(productDiv);
-            });
-        })
-        .catch(error => console.error('Error fetching data:', error));
-});
+function search_animal() {
+    let input = document.getElementById('searchbar').value
+    input=input.toLowerCase();
+    let x = document.getElementsByClassName('animals');
+      
+    for (i = 0; i < x.length; i++) { 
+        if (!x[i].innerHTML.toLowerCase().includes(input)) {
+            x[i].style.display="none";
+        }
+        else {
+            x[i].style.display="list-item";                 
+        }
+    }
+}

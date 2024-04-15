@@ -1,29 +1,29 @@
-.container {
-    position: relative; /* Estabelece um contexto de posicionamento para os elementos filhos absolutamente posicionados */
-    width: 300px; /* Defina a largura desejada do contêiner */
-    height: 300px; /* Defina a altura desejada do contêiner */
-    border: 1px solid black; /* Adicione uma borda para visualização */
-}
+#searchbar{
+    margin-left: 15%;
+    padding:15px;
+    border-radius: 10px;
+  }
 
-/* Estilos para os elementos filhos */
-.elemento {
-    position: absolute; /* Posicionamento absoluto */
-    width: 100px; /* Largura do elemento */
-    height: 100px; /* Altura do elemento */
-    background-color: rgba(0, 0, 0, 0.5); /* Cor de fundo com transparência */
-    color: white; /* Cor do texto */
-    text-align: center; /* Alinhamento do texto ao centro */
-    line-height: 100px; /* Centraliza verticalmente o texto */
-}
+  input[type=text] {
+     width: 30%;
+     -webkit-transition: width 0.15s ease-in-out;
+     transition: width 0.15s ease-in-out;
+  }
 
-/* Estilo para o segundo elemento */
-.elemento2 {
-    top: 50px; /* Distância do topo */
-    left: 50px; /* Distância da esquerda */
-}
+  
+  input[type=text]:focus {
+    width: 70%;
+  }
 
-/* Estilo para o terceiro elemento */
-.elemento3 {
-    top: 100px; /* Distância do topo */
-    left: 100px; /* Distância da esquerda */
-}
+ #list{
+   font-size:  1.5em;
+   margin-left: 90px;
+  }
+
+.animals{
+  display: list-item;    
+ } 
+  
+  
+  
+  
