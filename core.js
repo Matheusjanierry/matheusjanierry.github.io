@@ -27,8 +27,6 @@ async function buscar(){
     for(let card of elememtosCards){
         card.addEventListener("click", cliquei)
     }
-
-    
 }
 buscar()
 function cliquei(){

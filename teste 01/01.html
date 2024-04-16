@@ -6,25 +6,17 @@
     <title>Document</title>
 </head>
 <body>
-    <!-- input tag -->
-    <input id="searchbar" onkeyup="search_animal()" type="text"
-        name="search" placeholder="Search animals..">
-      
-    <!-- ordered list -->
-    <ol id='list'>
-        <li class="animals">Cat</li>
-        <li class="animals">Dog</li>
-        <li class="animals">Elephant</li>
-        <li class="animals">Fish</li>
-        <li class="animals">Gorilla</li>
-        <li class="animals">Monkey</li>
-        <li class="animals">Turtle</li>
-        <li class="animals">Whale</li>
-        <li class="animals">Aligator</li>
-        <li class="animals">Donkey</li>
-        <li class="animals">Horse</li>
-    </ol>
+   
+<input type="text" id="searchInput" onkeyup="searchProducts()" placeholder="Pesquisar produtos...">
 
+<ul id="productList">
+  <li class="product">Produto 1</li>
+  <li class="product">Produto 2</li>
+  <li class="product">Produto 3</li>
+  <li class="product">Produto 4</li>
+  <li class="product">Produto 5</li>
+  <!-- Adicione mais itens conforme necessário -->
+</ul>
     <script src="script.js"></script>
 </body>
 </html>
