@@ -10,6 +10,37 @@
         "valorSemDesconto":4699.99
     },
     {
+        "id":5,
+        "img":["https://images-americanas.b2w.io/produtos/01/00/img3/74717048/9/7471704877_1SZ.jpg",
+                    "https://images-americanas.b2w.io/produtos/01/00/img3/74717048/9/7471704877_2SZ.jpg",
+                    "https://images-americanas.b2w.io/produtos/01/00/img3/74717048/9/7471704877_4SZ.jpg" ],
+        "nome":"Smartphone Xiaomi Redmi 13C 128GB ",
+        "descricao": "O Smartphone Xiaomi Redmi 13C traz uma impressionante tela de alta definição com 6,74, experiência visual envolvente com taxa de atualização de 90Hz que garante fluidez e suavidade. Ideal para usar apps, jogar e assistir vídeos com ...",
+        "valorComDesconto": 989.19,
+        "valorSemDesconto": 1.099
+    },
+    {
+        "id":7,
+        "img":["https://images-americanas.b2w.io/produtos/6537072047/imagens/smartwatch-w68-ultra-serie-8-original-lancamento-2023-portugues-masculino-ou-feminino-49mm-compativel-com-samsung-motorola-iphone-xiaomi/6537072055_1_xlarge.jpg",
+                    "https://images-americanas.b2w.io/produtos/6537072047/imagens/smartwatch-w68-ultra-serie-8-original-lancamento-2023-portugues-masculino-ou-feminino-49mm-compativel-com-samsung-motorola-iphone-xiaomi/6537072055_2_xlarge.jpg", 
+                "https://images-americanas.b2w.io/produtos/6892000646/imagens/pulseira-silicone-oceano-para-apple-watch-38mm-40mm-41mm-lancamento-2022-2023/6892000671_2_xlarge.jpg"],
+        "nome":"Smartwatch w68 ultra Série 8 Original",
+        "descricao": " Sejam bem-vindos A shopping md Descrio do produto W68 Ultra smartwatch srie 8 ecg ppg monitor de frequncia cardaca: MActivePro App mudando o estilo do menu, o aplicativo verifica a faixa esportiva, a sade da famlia e a funo de compa...",
+        "valorComDesconto":179.99,
+        "valorSemDesconto": 39999
+ 
+    },
+    {
+        "id":45,
+        "img":["https://images-americanas.b2w.io/produtos/01/00/img3/48573234/9/4857323458_1SZ.jpg",
+                    "https://images-americanas.b2w.io/produtos/01/00/img3/48573234/9/4857323458_3SZ.jpg",
+                    "https://images-americanas.b2w.io/produtos/01/00/img3/48573234/9/4857323458_5SZ.jpg" ],
+        "nome":"Micro-Ondas Mondial MO-01-21-B 21L Tira Odor Preto - 220V",
+        "descricao": "O Micro-ondas 20L Midea veio para ser seu novo aliado na cozinha. Seu painel conta com o Minuto Fácil que proporciona acesso rápido com teclas de 1,2 ou 3 minutos para facilitar ainda mais o seu dia a dia. Possui diversas opções de ...",
+        "valorComDesconto":568.99,
+        "valorSemDesconto": 632.22
+    },
+    {
         "id":3,
         "img":[ "https://a-static.mlcdn.com.br/800x560/kit-kt-105-b-mondial-com-liquidificador-batedeira-espremedor/magazineluiza/023004200/8dc54c8eec75c392e09f443d7125b13d.jpg",
                "https://a-static.mlcdn.com.br/800x560/kit-kt-105-b-mondial-com-liquidificador-batedeira-espremedor/magazineluiza/023004200/685ab1a9f244fa40dc454f7065440ed9.jpg",

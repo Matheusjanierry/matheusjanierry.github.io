@@ -1,19 +1,10 @@
-  /* Estilo para a barra de pesquisa */
-  #searchInput {
-    width: 300px;
-    padding: 10px;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
+.carousel {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
 
-  /* Estilo para os itens da lista */
-  .product {
-    display: none;
-    padding: 10px;
-    border-bottom: 1px solid #ddd;
-  }
-  
-  
-  
-  
+.carousel img {
+  width: 100%;
+  display: inline-block;
+}
