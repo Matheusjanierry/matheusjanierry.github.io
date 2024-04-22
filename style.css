@@ -109,6 +109,7 @@ body{
 
 }
 .card:hover{
+    align-items: center;
     width: 300px;
     height: 490px;
 }
@@ -165,6 +166,7 @@ body{
     justify-content: center;
 }
 .grupo-img:hover{
+    align-items: center;
     width: 250px;
     height: 150px;
 }
@@ -193,6 +195,7 @@ nav{
 }
 footer{
     display: flex;
+    justify-content:space-around;
     flex-direction: row;
     text-align: center;
     background: #ff0000;
@@ -201,6 +204,12 @@ footer{
 }
 
 button{
+    margin: 10px;
+    height: 100%;
+    border: black 10;
+    border-radius: 5px;
+}
+.botao{
     margin: 10px;
     height: 100%;
     border: black 10;

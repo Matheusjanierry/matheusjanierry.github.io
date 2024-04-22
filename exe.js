@@ -33,6 +33,7 @@ async function buscar(){
                 <span class="valorSemDesconto">
                     R$${(produtos[inProduto].valorSemDesconto).toFixed(2).replace(".",",")}
                 </span>
+                <button class="botao id="botao"">comprar</button>
         </div>
        
     `
